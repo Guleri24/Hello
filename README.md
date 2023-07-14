@@ -20,8 +20,9 @@ Hello World|name api at root "/"
 
 Using Gradle wrapper:
 
-    `./gradlew bootRun` (Unix)
-    `.\gradlew.cmd bootRun` (Windows)
+    ./gradlew bootRun (Unix)
+    
+    .\gradlew.cmd bootRun (Windows)
 
 3. Search 
     
